@@ -8,3 +8,4 @@ master commit
 test commit
 dev commit
 fuck
+a bug has been fixed
