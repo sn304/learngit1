@@ -8,4 +8,8 @@ master commit
 test commit
 dev commit
 fuck
+<<<<<<< Updated upstream
 a bug has been fixed
+=======
+there is a bug
+>>>>>>> Stashed changes
